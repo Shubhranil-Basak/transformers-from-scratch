@@ -1,0 +1,6 @@
+numpy
+torch
+torchmetrics
+datasets
+tokenizers
+tqdm
